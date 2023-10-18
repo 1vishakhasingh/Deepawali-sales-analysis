@@ -19,5 +19,5 @@ Healthcare and Aviation are more likely to buy products from Food,
 
 Clothing and Electronics category.
 
-So there is need to focus more the product of the above mentinad category for better profit.
+So there is need to focus more on the product of the above mentinad category for better profit.
 
