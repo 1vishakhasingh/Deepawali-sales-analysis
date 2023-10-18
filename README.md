@@ -3,9 +3,9 @@ The purpose of the used Diwali Sales dataset has been taken from Kaggle since it
 
 **Project Description :-**
 
-Performed Data Cleaning and Data Manipulation.
+**1.**Performed Data Cleaning and Data Manipulation.
 
-Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
+**2.**Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
 
-Improved Customer experience by identifying potential customers across different states, occupation, gender and age groups.
+**3.**Improved Customer experience by identifying potential customers across different states, occupation, gender and age groups.
 
