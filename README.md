@@ -9,3 +9,14 @@ The purpose of the used Diwali Sales dataset has been taken from Kaggle since it
 
 3.Improved Customer experience by identifying potential customers across different states, occupation, gender and age groups.
 
+**Conclusion :-**
+Married women age group 26-35 yrs from UP,
+
+Maharastra and Karnataka working in IT,
+
+Healthcare and Aviation are more likely to buy products from Food,
+
+Clothing and Electronics category.
+
+** So there is need to focus more the product of the above mentinad category for better profit.**
+
